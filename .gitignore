@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.example
+.DS_Store
+coverage/
+backend/uploads/videos/
+backend/uploads/patient-documents/
